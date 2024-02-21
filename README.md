@@ -49,7 +49,7 @@ where *** are file or folder names, and * should be ```_75_s*_k*``` for without 
 #### Install Python Denpendencies
 
 ```shell
-cd PointHSD-AAAI
+cd PointHSD
 pip install -r requirements.txt
 ```
 
