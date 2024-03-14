@@ -127,7 +127,7 @@ This project is open sourced under MIT license.
 ## Cite the Related Papers
 
 ```
-@inproceedings{zhou2022zero,
+@inproceedings{zhou2024cascaded,
   title={Cascaded Network with Hierarchical Self-Distillation for Sparse Point Cloud Classification},
   author={Zhou, Kaiyue and Dong, Ming and Arslanturk, Suzan},
   booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
