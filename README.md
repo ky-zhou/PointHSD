@@ -124,7 +124,7 @@ Use ```IDNNs/main2.py``` to plot the information plane.
 
 This project is open sourced under MIT license.
 
-## Cite the Related Papers
+## Please cite the related Papers when you find this repository useful.
 
 ```
 @inproceedings{zhou2024cascaded,
