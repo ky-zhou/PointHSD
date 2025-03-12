@@ -134,10 +134,11 @@ This project is open sourced under MIT license.
   year={2024},
   organization={IEEE}
 }
-@article{zhou2023joint,
+@article{zhou2024joint,
   title={Joint Learning for Scattered Point Cloud Understanding with Hierarchical Self-Distillation},
   author={Zhou, Kaiyue and Dong, Ming and Zhi, Peiyuan and Wang, Shengjin},
-  journal={arXiv preprint arXiv:2312.16902},
-  year={2023}
+  journal={IEEE Sensors Journal},
+  year={2024},
+  publisher={IEEE}
 }
 ```
